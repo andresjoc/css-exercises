@@ -21,7 +21,7 @@ body {
 .content {
   background: #e3f4ff;
   font-size: 22.4px;
-  padding: 18px 13px;
+  padding: 17px 13px;
   margin-bottom: 12px;
 }
 
@@ -37,5 +37,6 @@ button {
   border: 1px solid #eee;
   font-size: large;
   padding: 15px;
-  
+  display: block; 
+  margin: 0 auto;  /* center the button */
 }

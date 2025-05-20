@@ -4,13 +4,18 @@ body {
 }
 
 .card {
-  width: 400px;
+  width: 570px;
   background: #fff;
   margin: 16px auto;
+  padding: 12px;
 }
 
 .title {
   background: #e3f4ff;
+    padding: 10px;
+  font-size: 25px;
+  margin-bottom: 12px;
+
 }
 
 .content {
